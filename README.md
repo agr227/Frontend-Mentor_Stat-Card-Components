@@ -4,6 +4,11 @@
 
 ## Welcome! 👋
 
+**** I have attached the original read.me as well as all of the important images/references needed to get a basic understanding of this
+project. See attached card desktop image. I was given the basic HTML and an image/card to copy. This is my first challenge from the 
+Frontend Mentor website. I didn't even know what coding was 10 days ago. so I'm pretty happy with the outcome. PLEASE comment or make changes
+in branches showing how I could simplify my code or better achieve the outcome i was aiming to match. Thanks!****
+
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
